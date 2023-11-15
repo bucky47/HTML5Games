@@ -82,8 +82,8 @@
 "FB_Banner": "1597429594030505_1597429664030498",
 "FB_Interstitial": "1597429594030505_1597429660697165",
 "AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
+"ShowAds": "yes",
+"ShowVideoAds": "1",
 "CompteurJson": "500",
 "URLtoLunch": "https://html5.gamedistribution.com/dfbcabce16c640329b9f00867af35ae8/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Ftall_man_evolution&amp;key=y8&amp;value=default
 ",
